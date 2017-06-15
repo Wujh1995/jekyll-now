@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: 个人简介
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+菜鸟一只，喜欢鼓捣一些有的没的，把博客当成了学习笔记。
+我上传到github的项目可以随便拿去用。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[837538041@qq.com](mail.qq.com)

@@ -1,0 +1,789 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit">
+    <title>百老汇殿堂级原版音乐剧 《魔法坏女巫》（Wicked）首次来华巡演</title>
+    <meta name="keywords" content="魔法坏女巫、音乐剧魔法坏女巫、wicked、魔法坏女巫中国巡演、魔法坏女巫订票 购票" />
+    <meta name="description" content="广受赞誉的世界巡演版本《魔法坏女巫》首次来到中国，并在上海进行第一站巡演演出！聚橙网为您提供全国各品类更多精彩演出门票预订预售，全国票务服务热线：400-185-8666." />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <style id="dynamic"></style>
+</head>
+
+<body>
+    <!--头部-->
+    <iframe class="js-head-iframe" id="iframe1" name="iframe1" width="100%" height="200px" src="http://zhuanti.juooo.com/zhuanti/2017/juooo-head-module/" frameborder="0" style="position: fixed;top: 0;left: 0;z-index: 999">
+    </iframe>
+    <!--头部 END-->
+
+    <!-- <iframe src="http://zhuanti.juooo.com/zhuanti/2016/head.html" hspace="0" vspace="0" height="180" width="100%" marginheight="0" marginwidth="0" frameborder="0" style="position: absolute;top: 0;left: 0;z-index: 1;"></iframe> -->
+    <div class="icon1">
+        <img class="photo" src="images/head_photo.png" alt="">
+        <div class="content">
+            <!-- <a href="http://www.yhd.com" target="_blank" class="one" id="one"><img src="images/one1.png" alt=""></a> -->
+            <img class="txt" src="images/icon1_txt.png" alt="">
+            <div class="img1"><img src="images/xx_1.png"></div>
+            <div class="img2"><img src="images/xx_1.png"></div>
+            <!-- <a class="english" href="https://247tickets.cn/wicked">
+                <div class="circle"></div>
+                <span class="zhong">中</span>
+                <span class="en">EN</span>
+            </a> -->
+            <a href="http://myjuooo.juooo.com/User/myorderlist" target="_blank">
+                <div class="en-wicked-btn">Check order</div>
+            </a>
+        </div>
+        <a class="logo" href="http://www.juooo.com/" target="_blank"><img src="images/logo.png" alt=""></a>
+    </div>
+    <div class="icon2">
+        <div class="content">
+            <div class="item item1">
+                15个国家｜ 6种语言版本｜百老汇演出超过5000场 |</br>累计超过5000万观众 |累积超过40亿美元票房
+            </div>
+            <div class="video">
+                <video src="video.mp4" width="100%" height="100%" controls="controls">
+                    <source src="video.mp4" type="video/mp4">
+                    <source src="video.ogg" type="video/ogg">
+                </video>
+            </div>
+            <div class="item item2">
+                “《歌剧魅影》之后最宏大的制作”｜泰晤士报，英国</br>
+                “新世纪最伟大音乐剧之一”｜每日邮报，英国
+            </div>
+            <div class="item item3">
+                横扫百老汇与伦敦西区获得超过<span class="big">100个奖项</span></br>
+                原版震撼呈现 <span class="big">本世纪超卖座</span>的经典音乐剧之一
+            </div>
+            <div class="txt txt1">1座格莱美奖</div>
+            <div class="txt txt2">2座奥利弗奖</div>
+            <div class="txt txt3">3座托尼奖</div>
+        </div>
+    </div>
+    <div class="icon3"></div>
+    <div class="icon4">
+        <div class="content">
+            <img class="img_txt" src="images/txt1.png" alt="友情、爱情与人生，每时每刻都在抉择即使背负邪恶的恶名，也要勇敢做自己！">
+            <div class="txt">
+                在充满魔法的奥兹国，动物与人类平等相处……天生绿色皮肤的少女艾芙芭从小不受家人喜爱，</br>
+                为照顾妹妹上学来到西兹学院，又阴差阳错与学校的“万人迷”女生格琳达分配到同一间寝室。</br>
+                经过种种误会与开解，两个截然不同的女生成为彼此最好的朋友，而她们又同时爱上了校园明星费叶罗。</br>
+                因天生拥有魔法力量，艾芙芭被选中成为大巫师的门徒，而在风平浪静的校园背后，似乎某种力量在操纵一切，</br>
+                将两个女生推向截然不同的人生道路……
+            </div>
+            <img class="light" src="images/line.png" alt="">
+            <img class="light active" src="images/light.gif" alt="">
+        </div>
+    </div>
+    <div class="icon5">
+        <img class="icon5_photo" src="images/icon5_photo.png" alt="">
+        <div class="content">
+            <img class="bg" src="images/arrow.png" alt="">
+            <div class="ttxt ttxt1">室友、闺蜜、情敌</div>
+            <div class="ttxt ttxt2">姐妹</div>
+            <div class="ttxt ttxt3">互相爱慕</div>
+            <div class="ttxt ttxt4">昔日恋人</div>
+            <div class="ttxt ttxt5">暗恋</div>
+            <div class="ttxt ttxt6">暗恋</div>
+            <div class="num one">
+                <div class="hover"></div>
+                <img src="images/photo1.png" alt="">
+                <div class="tips">
+                    <div class="little">
+                        <span>Jacqueline Hughes</span>饰演 艾芙芭
+                    </div>
+                    <div class="two_txt">
+                        “每周八次高空飙起HighF高音”</br>
+                        “对每一个音乐剧女演员的唱功大考验”
+                    </div>
+                    <div class="photo">
+                        <img src="images/head.png" alt="">
+                    </div>
+                    <div class="txt">
+                        《魔法坏女巫》的女主角邪恶绿女巫，一直是音乐剧演</br>
+                        员梦寐以求的角色。Jacqueline </br>
+                        Hughes从首轮全英巡演，就与《魔法坏女巫》结缘。</br>
+                        杂志评论称，“Jacqueline展示了成</br>
+                        为一个伦敦西区的演员需要的所有素质”。
+                    </div>
+                </div>
+            </div>
+            <div class="num two">
+                <div class="hover"></div>
+                <img src="images/photo2.png" alt="">
+                <div class="tips">
+                    <div class="little">
+                        <span>Carly Anderson</span>饰演 格琳达
+                    </div>
+                    <div class="two_txt">
+                        “美貌与演技的集合”</br>
+                        “甜美却有脑的金发女郎”
+                    </div>
+                    <div class="photo">
+                        <img src="images/head2.png" alt="">
+                    </div>
+                    <div class="txt">
+                        Carly Anderson也是一位拥有丰富舞台经历的演员，曾扮演</br>
+                        过《世外桃源》中基拉/克里欧的角色，受到评论员的好评。</br>
+                        韩国巡演版《Q大道》中饰演毛毛妹/</br>Lucy，英国巡演版本《音乐之声》中替补玛丽亚。</br>
+                    </div>
+                </div>
+            </div>
+            <div class="num three">
+                <div class="hover"></div>
+                <img src="images/photo3.png" alt="">
+                <div class="tips">
+                    <div class="little">
+                        <span>Iddon Jones</span>饰演 巴克
+                    </div>
+                    <div class="two_txt">
+                        “我不是备胎”
+                    </div>
+                    <div class="photo">
+                        <img src="images/head3.png" alt="">
+                    </div>
+                    <div class="txt">
+                        饰演巴克的Iddon Jones生活中也是一枚“学霸”，以一级荣</br>
+                        誉学位毕业于蒙特维尔戏剧艺术学校，在校期间也获得过多</br>
+                        次表演奖项。毕业后饰演威尔士版本《春之觉醒》中Moritz，</br>《交响曲》、《圣诞欢歌》及电视节目《最后的合唱团》。</br>
+                        去年凭着自己自编自导自演的电影《圆圈舞》，获得了英国</br>
+                        电影电视艺术学院威尔士电台奖。
+                    </div>
+                </div>
+            </div>
+            <div class="num four">
+                <div class="hover"></div>
+                <img src="images/photo4.png" alt="">
+                <div class="tips">
+                    <div class="little">
+                        <span>Emily Shaw</span>饰演 娜瑟萝
+                    </div>
+                    <div class="two_txt">
+                        “真是个美丽的悲剧”
+                    </div>
+                    <div class="photo">
+                        <img src="images/head4.png" alt="">
+                    </div>
+                    <div class="txt">
+                        饰演娜瑟罗的Emily Shaw毕业于莱恩戏剧艺术学校，</br>
+                        曾参演《玛蒂尔达》首演版本、《你好多莉》、</br>
+                        《欢乐满人间》、《美女与野兽》及《奥兹国巫师》。</br>
+                        此外她还参与了《玛蒂尔达》录音室唱片的录制。
+                    </div>
+                </div>
+            </div>
+            <div class="num five">
+                <div class="hover"></div>
+                <img src="images/photo5.png" alt="">
+                <div class="tips">
+                    <div class="little">
+                        <span>Bradley Jaden</span>饰演 费叶罗
+                    </div>
+                    <div class="two_txt">
+                        “数万少女的梦中情人”</br>
+                        “看脸就可以俘获一切，却偏偏要靠嗓音”
+                    </div>
+                    <div class="photo">
+                        <img src="images/head5.png" alt="">
+                    </div>
+                    <div class="txt">
+                        Bradley Jaden无疑是这个角色的不二人选，他曾参演过</br>
+                        英国巡演版本《人鬼情未了》，圣保罗教堂庆典版本《</br>
+                        窈窕淑女》以及《怪物史莱克》。他最知名的角色依然</br>
+                        是伦敦西区版本《悲惨世界》中的阿波罗－少年领袖安</br>
+                        灼拉。
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="icon6"></div>
+    <div class="icon7">
+        <div class="content">
+            <img src="images/pepole.png" alt="">
+            <img src="images/pep1.png" alt="">
+            <img src="images/pep2.png" alt="">
+            <img src="images/pep3.png" alt="">
+            <img src="images/pep4.png" alt="">
+            <img src="images/pep5.png" alt="">
+            <img src="images/pep6.png" alt="">
+            <img src="images/pep7.png" alt="">
+            <img class="line" src="images/line.png" alt="">
+            <img class="line active" src="images/light.gif" alt="">
+            <img class="xin1" src="images/xin.png" alt="">
+            <img class="xin2" src="images/xin.png" alt="">
+            <div class="txt txt1">
+                <p class="little">200余件美轮美奂的戏服独家定制！</p>
+                <p class="txt-content">
+                    全场戏服由纽约大学艺术学院教授倾力打造，</br>
+                    服装面料均从亚洲和巴黎进口。</br>
+                    整套翡翠城的行头用了2000多米</br>
+                    不同类别的丝带缎物，</br>
+                    仅一套服饰就用料500米，总计319双鞋。</br>
+                    全场70多顶人工精制的假发，</br>
+                    每顶都是独一无二的设计，</br>
+                    单价市值过万！
+                </p>
+            </div>
+            <div class="txt txt2">
+                艾芙芭的戏服则均融合大地色质感，</br>
+                从厚重的老式外套，</br>
+                到最后散发着女王气质的暗黑华服，</br>
+                见证了她从女孩到女人的成熟蜕变。
+            </div>
+            <div class="txt txt3">
+                45层荷叶边，十万枚珠片，</br>
+                纯手工用时3天纯手工打造，</br>
+                呈现格琳达星光四射的公主裙!
+            </div>
+            <div class="txt txt4">
+                更有猴仆、羊教授、</br>
+                熊护士等惟妙惟肖的动物面具，</br>
+                众生各异的魔法学院装，</br>
+                带有爱德华时代英伦遗风的</br>
+                大巫师复古长袍，</br>
+                一切都带给你时空穿越般的新奇和震撼！
+            </div>
+        </div>
+    </div>
+    <div class="icon8"></div>
+    <div class="icon9">
+        <div class="content">
+            <img class="img_txt" src="images/txt3.png" alt="">
+            <div class="txt">
+                爬满常春藤的西兹学院厅廊，浮华惹眼的国都翡翠城，</br>
+                吉利金大森林里的荒垠旷野，还有见证了最终结局的隐秘古堡，</br>
+                一景一幕令人如临其境，随剧情不断迁换，无缝衔接。</br>
+                两位女主角学生时代的宿舍，</br>
+                也依她们的个性精心“装修”了一番。
+            </div>
+            <div class="gear">
+                <img class="item active gear1" src="images/gear/gear1.png" alt="">
+                <img class="item active gear2" src="images/gear/gear2.png" alt="">
+                <img class="item active gear3" src="images/gear/gear3.png" alt="">
+                <img class="gear4" src="images/gear/gear4.png" alt="">
+                <img class="item active gear5" src="images/gear/gear5.png" alt="">
+                <img class="item active gear6" src="images/gear/gear6.png" alt="">
+                <img class="item active gear7" src="images/gear/gear7.png" alt="">
+                <img class="item active gear8" src="images/gear/gear8.png" alt="">
+                <div class="img img1"><img src="images/gear/img1.jpg" alt=""></div>
+                <div class="img img2"><img src="images/gear/img2.jpg" alt=""></div>
+                <div class="img img3"><img src="images/gear/img3.jpg" alt=""></div>
+            </div>
+            <div class="txt2">
+                更有格琳达的专属座驾——泡泡船，从天而降！盘旋在舞台上空的巨龙身下是一副古老的奥兹国地图，</br>
+                翡翠城一片只见绿光闪烁。随着龙钟敲响，绿光的浓度和明度都相应递增，魔幻世界的神秘感呼之欲出。
+            </div>
+        </div>
+    </div>
+    <div class="icon10"></div>
+    <div class="icon11">
+        <div class="content">
+            <img src="images/txt4.png" alt="">
+            <div class="txt">
+                宏大的乐队编制，烘托奥兹国魔幻场面</br>
+                《魔法坏女巫》不仅拥有华丽的舞美，音乐对于舞台效果的衬托也功不可没。</br>
+                宏伟的序章拉开奥兹国的帷幕，将这个神秘的魔法国度呈现在观众面前。</br>
+                随着音乐的转换，故事渐渐从轻松的校园生活变得阴暗，观众的心也随着音乐一同起伏。</br>
+                时尚金曲《Popular》教你成为小天后</br>
+                《流行力Popular》在剧中是一首欢快的歌曲，也标志着两位女主角艾芙芭与</br>
+                格琳达友谊的转折点。歌曲讲述了格琳达的变美秘籍，跟着做，你也可以成为时尚教主！</br>
+            </div>
+        </div>
+    </div>
+    <div class="icon12">
+        <div class="content">
+            <div class="light"></div>
+            <div class="music music_one">
+                1、《For Good》 <span class="btn js-music"></span>
+            </div>
+            <div class="music">
+                2、《Defying Gravity》 <span class="btn js-music"></span>
+            </div>
+            <div class="music">
+                3、《Popular》 <span class="btn js-music"></span>
+            </div>
+            <div class="music">
+                4、《No One Mourns the Wicked》 <span class="btn js-music"></span>
+            </div>
+        </div>
+    </div>
+    <div class="icon13">
+        <div class="content">
+            <img class="little" src="images/txt5.png" alt="">
+            <ul class="ul_box">
+                <li class="item">
+                    <div class="log active">
+                        <img class="gif" src="images/head_bg.gif" alt="">
+                        <img src="images/head_1.png" alt="">
+                        <img class="line" src="images/head_bg.png" alt="">
+                    </div>
+                    <div class="log_right">
+                        <p class="little">
+                            斯蒂芬·施华茨 / <span>词曲作者</span>
+                        </p>
+                        <p class="txt">
+                            作曲家总揽了词曲的创作，他获得过奥斯卡</br>
+                            奖、格莱美奖，剧中所作的《Defying </br>Gravity》《Popular》更是享誉全球的音乐</br>
+                            剧传唱经典。</p>
+                    </div>
+                </li>
+                <li class="item">
+                    <div class="log">
+                        <img class="gif" src="images/head_bg.gif" alt="">
+                        <img src="images/head_2.png" alt="">
+                        <img class="line" src="images/head_bg.png" alt="">
+                    </div>
+                    <div class="log_right">
+                        <p class="little">
+                            薇尼.霍兹曼 / <span>编剧</span>
+                        </p>
+                        <p class="txt">
+                            薇尼·霍兹曼凭借《女巫》获得了托尼奖提名</br>以及纽约戏剧委员会奖。因为作品《我这一</br>生》而一举成名，这部作品也成为了荧幕经</br>
+                            典之作。
+                        </p>
+                    </div>
+                </li>
+                <li class="item">
+                    <div class="log">
+                        <img class="gif" src="images/head_bg.gif" alt="">
+                        <img src="images/head_3.png" alt="">
+                        <img class="line" src="images/head_bg.png" alt="">
+                    </div>
+                    <div class="log_right">
+                        <p class="little">
+                            乔.芒特罗 / <span>导演</span>
+                        </p>
+                        <p class="txt">
+                            乔.芒特罗有着丰富的舞台和电影执导经验。</br>
+                            他曾获得外剧评人圈（Outer Critics </br>Circle）、纽约戏剧委员会（Drama </br>Desk），外百老汇奖（Obie），乔A卡拉威</br>
+                            （Joe A. Callaway）等奖项。
+                        </p>
+                    </div>
+                </li>
+                <li class="item">
+                    <div class="log">
+                        <img class="gif" src="images/head_bg.gif" alt="">
+                        <img src="images/head_4.png" alt="">
+                        <img class="line" src="images/head_bg.png" alt="">
+                    </div>
+                    <div class="log_right">
+                        <p class="little">
+                            韦恩.奇伦托 / <span>舞台指导</span>
+                        </p>
+                        <p class="txt">
+                            曾获得七次托尼奖提名，并凭借为史诗级百</br>
+                            老汇制作——《谁的汤米》（同时获得纽约</br>
+                            戏剧委员会奖、弗雷德阿斯黛尔奖，奥利弗</br>
+                            奖提名）编舞创作而最终加冕职业生涯第一</br>
+                            座托尼奖。
+                        </p>
+                    </div>
+                </li>
+                <li class="item">
+                    <div class="log">
+                        <img class="gif" src="images/head_bg.gif" alt="">
+                        <img src="images/head_5.png" alt="">
+                        <img class="line" src="images/head_bg.png" alt="">
+                    </div>
+                    <div class="log_right">
+                        <p class="little">
+                            尤金.李 / <span>舞台设计</span>
+                        </p>
+                        <p class="txt">
+                            尤金李在芝加哥艺术学院及卡耐基梅隆大学</br>
+                            获得艺术学士学位，在耶鲁戏剧学校获得艺</br>
+                            术硕士学位以及三个荣誉博士学位。最近，</br>
+                            他还登上了纽约戏剧名人堂。
+                        </p>
+                    </div>
+                </li>
+                <li class="item">
+                    <div class="log">
+                        <img class="gif" src="images/head_bg.gif" alt="">
+                        <img src="images/head_6.png" alt="">
+                        <img class="line" src="images/head_bg.png" alt="">
+                    </div>
+                    <div class="log_right">
+                        <p class="little">
+                            苏珊.谢尔弗提 / <span>服装设计</span>
+                        </p>
+                        <p class="txt">
+                            苏珊曾为世界范围内300部戏剧、歌剧、电</br>
+                            影及舞蹈作品设计服装。她曾获得过2004年</br>
+                            托尼奖，纽约戏剧委员会奖，凭借《女巫》</br>
+                            获得奥利弗奖提名。
+                        </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="icon14">
+        <div class="content">
+            <div class="lon" style="width: 730px;padding-top: 40px;">
+                <a class="logo juooo" href="http://www.juooo.com/" target="_blank"><img src="images/juooo_logo.png" alt=""></a>
+                <a class="logo" href="http://weibo.com/juooo?refer_flag=1001030101_" target="_blank"><img src="images/weixi_logo.png" alt=""></a>
+                <a class="logo jsmore" href="javascript:;" style="font-size: 20px;color: #d6d6d6;text-decoration: none">更多音乐剧</a>
+                <!-- <span class="line"></span> -->
+                <span class="ewm" style="margin:125px auto 0;float: inherit;">
+                    <img src="images/ewm.png" alt="">
+                    聚橙票务
+                </span>
+            </div>
+            <div class="foot" style="padding-top:40px">
+                <p>
+                    <!-- <a target="_blank" href="http://www.juooo.com/about/index">关于聚橙</a> | -->
+                    <a target="_blank" href="http://www.juooo.com/about/contact">联系我们</a> |
+                    <a target="_blank" href="http://www.juooo.com/about/job">加入我们</a> |
+                    <!-- <a target="_blank" href="http://www.juooo.com/about/join">加盟聚橙</a> | -->
+                    <a target="_blank" href="http://www.juooo.com/about/termsService">服务条款</a> |
+                    <a target="_blank" href="http://www.juooo.com/news/newslist/100">媒体报道</a> |
+                    <a target="_blank" href="http://www.juooo.com/about/partner">合作伙伴</a> |
+                    <a target="_blank" href="http://www.juooo.com/about/links">友情链接</a>
+                </p>
+                <p>全国统一客服电话：400-185-8666 深圳市聚橙网络技术有限公司</p>
+                <p>Copyright 2007-2014 深圳市聚橙网络技术有限公司 粤B2-20070272 | 粤ICP备09218027号</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="sidebar">
+        <img class="houzi" src="images/big_bg.png" alt="">
+        <a class="switch-bar " href="http://zhuanti.juooo.com/zhuanti/2016/mfhnw/En-index.html">
+            <div class="circle"></div>
+            <span class="zhong">中</span>
+            <span class="en">EN</span>
+        </a>
+        <!-- <div class="english-box">
+            <ul class="city">
+                <li>
+                    <a href="http://language.juooo.com/ticket/74437" target="_blank">
+                        <div class="city">Shanghai</div>
+                        <div class="time">2017.04.11-05.14</div>
+                        <div class="quick-buy">Quick buy</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://language.juooo.com/ticket/74030" target="_blank">
+                        <div class="city">Beijing</div>
+                        <div class="time">2017.05.20-06.11</div>
+                        <div class="quick-buy">Quick buy</div>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://language.juooo.com/ticket/74035" target="_blank">
+                        <div class="city">Guangzhou</div>
+                        <div class="time">2017.06.18-06.27</div>
+                        <div class="quick-buy">Quick buy</div>
+                    </a>
+                </li>
+            </ul>
+            <div class="scrollTop1">
+                <img src="images/arrow-top.png" alt=""> TOP
+            </div>
+        </div> -->
+        <div class="chinese-box active">
+            <ul class="city">
+                <li>
+                    <a href="http://item.juooo.com/74437" target="_blank">
+                        <div class="city">上&nbsp;&nbsp;海&nbsp;&nbsp;站</div>
+                        <div class="time">2017.04.11-05.14</div>
+                        <div class="buy"><span class="txt">购票</span></div>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://item.juooo.com/75575" target="_blank">
+                        <div class="city">北&nbsp;&nbsp;京&nbsp;&nbsp;站</div>
+                        <div class="time">2017.05.20-06.11</div>
+                        <div class="buy"><span class="txt">购票</span></div>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://item.juooo.com/74038" target="_blank">
+                        <div class="city">广&nbsp;&nbsp;州&nbsp;&nbsp;站</div>
+                        <div class="time">2017.06.18-07.02</div>
+                        <div class="buy"><span class="txt">购票</span></div>
+                    </a>
+                </li>
+            </ul>
+            <div class="scrollTop1">
+                <img src="images/arrow-top.png" alt=""> 回顶部
+            </div>
+        </div>
+    </div>
+    <iframe class="js-iframe" id="iframe0" name="iframe0" width="100%" height="100%" src="http://zhuanti.juooo.com/zhuanti/2017/mokuai/" frameborder="0" data-href="" seamless="" style="position: fixed;top: 0;left: 0;z-index: 100;display: none">
+    </iframe>
+     <iframe class="js-iframed" id="iframe0" name="iframe0" width="100%" height="100%" src="http://zhuanti.juooo.com/zhuanti/2017/mokuai/pz/pc/" frameborder="0" data-href="" seamless="" style="position: fixed;top: 0;left: 0;z-index: 1000;display: none">
+    </iframe>
+    <script src="js/jquery.min.js"></script>
+    <script>
+    (function() {
+            $('.jsmore').on('click',function(){
+                $('.js-iframed').show()
+            })
+        // $('.switch-bar').on('click',function() {
+        //     if($(this).hasClass('active'))
+        //     {
+        //         $(this).removeClass('active');
+        //         $('.english-box').removeClass('active');
+        //         $('.chinese-box').addClass('active'); 
+        //     }
+        //     else
+        //     {
+        //         $(this).addClass('active');
+        //         $('.chinese-box').removeClass('active');
+        //         $('.english-box').addClass('active');
+        //     }
+        // })
+
+        var audios = document.getElementsByTagName('audio');
+        $(document).on('click', '.js-music', function() {
+            var music = ['1.mp3', '2.mp3', '3.mp3', '4.mp3'];
+            var $this = $(this).index('.js-music'),
+                audio = this.getElementsByTagName('audio');
+
+            if (audio.length == 0) {
+                for (var i = 0; i < audios.length; i++) {
+                    audios[i].pause();
+                    $('.music-item').find('.icon').removeClass('icon-puase');
+                }
+                var oadio = '<audio style=\"display:none\" src=\"' + music[$this] + '\" controls=\"controls\" autoplay=\"autoplay\" loop=\"loop\"></audio>';
+                var odiv = '<div style=\"display:none\">' + oadio + '</div>';
+                $(this).append(odiv);
+                audio[0].play();
+            } else if (audio[0].paused) {
+
+                for (var i = 0; i < audios.length; i++) {
+                    audios[i].pause();
+                    $('.music-box').find(".btn").removeClass('puase');
+                }
+                audio[0].play();
+            } else {
+                audio[0].pause();
+            }
+            if ($(this).hasClass('puase')) {
+                $(this).removeClass('puase');
+            } else {
+                $('.js-music').removeClass('puase');
+                $(this).addClass('puase');
+            }
+        })
+
+        var flag = true;
+        window.onscroll = function() {
+            var t = document.documentElement.scrollTop || document.body.scrollTop;
+
+
+            $('.icon4').removeClass('active');
+            $('.icon7').removeClass('active');
+            $('.icon9').removeClass('active');
+            if (t > 200 && t < 800 && flag) {
+                $(".icon2").find('video')[0].play();
+                flag = false;
+            } else if (t < 200 || t > 800) {
+                $(".icon2").find('video')[0].pause();
+                flag = true;
+            }
+
+            if (t > 1700) {
+                $('.icon4').addClass('active');
+            }
+            if (t > 4400) {
+                $('.icon7').addClass('active');
+            }
+            if (t > 6000) {
+                $('.icon9').addClass('active');
+            }
+            if (t > 6800) {
+                $('.icon11').addClass('active');
+            }
+
+        }
+
+        $('.log').on('mouseover', function() {
+            $('.log').removeClass('active');
+            $(this).addClass('active');
+        })
+
+        $('.hover').on('mouseover', function() {
+            $(this).parent().addClass('active')
+        })
+        $('.hover').on('mouseout', function() {
+            $(this).parent().removeClass('active');
+        })
+
+        $('.scrollTop1').on('click', function() {
+            if(!$("html,body").is(":animated"))
+            {$("html,body").animate({scrollTop:0},800)}
+            return false;
+        })
+
+        var prevTop = 0,
+            currTop = 0;
+        $(window).scroll(function() {
+            currTop = $(window).scrollTop();
+            if (currTop < prevTop) { //判断小于则为向上滚动
+                $(".sidebar").addClass("bottom");
+                setTimeout(function() {
+                    $(".sidebar").removeClass("bottom");
+                }, 500)
+            } else {
+                $(".sidebar").addClass("top");
+                setTimeout(function() {
+                    $(".sidebar").removeClass("top");
+                }, 500)
+            }
+            //prevTop = currTop; //IE下有BUG，所以用以下方式
+            setTimeout(function() {
+                prevTop = currTop
+            }, 0);
+        });
+    })()
+    </script><!-- 
+    <script type="text/javascript" scr="http://m.juooo.com/zhuanti/pco_code.js"></script>
+    <script type="text/javascript" scr="http://m.juooo.com/zhuanti/sjo_code.js"></script> -->
+    <div style="display:none">
+        <script src="http://s23.cnzz.com/stat.php?id=612289&amp;web_id=612289&amp;show=pic" language="JavaScript" charset="gb2312"></script>
+        <script src="http://c.cnzz.com/core.php?web_id=612289&amp;show=pic&amp;t=z" charset="utf-8" type="text/javascript"></script>
+        <a href="http://www.cnzz.com/stat/website.php?web_id=612289" target="_blank" title="站长统计"><img border="0" hspace="0" vspace="0" src="http://icon.cnzz.com/img/pic.gif"></a>
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?43215f86e988d934ac6f0e6f63f2c0a8";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+        <!-- <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?71a86e97964adcd89108b19df922708a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+        </script> -->
+        <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?214739940fca835e1b074f9d8be81ccb";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+
+    </div>
+    <script type="text/javascript">
+        var _py = _py || [];
+        _py.push(['a', 'wn84T..2SKw9KcG0NuT559gULJ5aX']);
+        _py.push(['domain','stats.ipinyou.com']);
+        _py.push(['e','']);
+        -function(d) {
+            var s = d.createElement('script'),
+            e = d.body.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e),
+            f = 'https:' == location.protocol;
+            s.src = (f ? 'https' : 'http') + '://'+(f?'fm.ipinyou.com':'fm.p0y.cn')+'/j/adv.js';
+        }(document);
+    </script>
+    <noscript><img src="//stats.ipinyou.com/adv.gif?a=wn84T..2SKw9KcG0NuT559gULJ5aX&e=" style="display:none;"/></noscript>
+
+<script type="text/javascript">
+    function goPAGE() {
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+            if(window.location.href=="http://zhuanti.juooo.com/zhuanti/2016/mfhnw/"){
+                window.location.href="http://zhuanti.juooo.com/zhuanti/mtouch/zhuanti/2016/wicked/";}
+            }
+            else{
+                if(window.location.href=="http://zhuanti.juooo.com/zhuanti/mtouch/zhuanti/2016/wicked/"){
+                    window.location.href="http://zhuanti.juooo.com/zhuanti/2016/mfhnw/"
+                }
+            }
+        }
+
+    goPAGE();
+</script>
+
+<script>
+$('#one').click(function(){
+    pyRegisterCvt()
+})
+function pyRegisterCvt(_orderno){
+    var w=window,d=document,e=encodeURIComponent;
+    var b=location.href,c=d.referrer,f,g=d.cookie,h=g.match(/(^|;)\s*ipycookie=([^;]*)/),i=g.match(/(^|;)\s*ipysession=([^;]*)/);
+    if (w.parent!=w){f=b;b=c;c=f;};u='//stats.ipinyou.com/cvt?a='+e('wn84T.Eth.1LLY8g5UfI4yv8zX59IhVP')+'&c='+e(h?h[2]:'')+'&s='+e(i?i[2].match(/jump\%3D(\d+)/)[1]:'')+'&u='+e(b)+'&r='+e(c)+'&rd='+(new Date()).getTime()+'&OrderNo='+e(_orderno)+'&e=';
+    (new Image()).src=u;
+}
+</script>
+    <script>
+        //判断演出是否过期
+        function checkShow(time) {
+            var endTime = new Date(time).getTime(),
+                    nowTime = new Date().getTime(),
+                    $iframe = $('.js-iframe');
+            if (nowTime > endTime) {
+                $iframe.show();
+            }
+        }
+        checkShow("2017/7/3 00:00:00");
+
+        //针对每个演出判定是否过期，将已经工期的演出滞后
+        /*
+        function sortShow(arr, eleContent, fatherEle) {
+            var freshItem = [];      //保存生成的未过期元素对象
+            var staleItem = [];      //保存生成的过期元素对象
+            var nowTime = new Date('2017/5/15').getTime();
+            var $eleList = $(eleContent);     //选中循环体，eleContent:循环体的类选择器
+            for (var i = 0; i < arr.length; i++) {
+                var showTime = new Date(arr[i]).getTime();
+                if (nowTime > showTime) {  //演出过期
+                    var stale = {};     //保存过期的演出
+                    stale.dom = $eleList[i];
+                    stale.date = showTime;
+                    staleItem.push(stale);
+                } else {
+                    var fresh = {};     //保存未过期的演出
+                    fresh.dom = $eleList[i];
+                    fresh.date = showTime;
+                    freshItem.push(fresh);
+                }
+            }
+            freshItem.sort(function (a, b) {
+                return a.date - b.date;
+            })
+            staleItem.sort(function (a, b) {
+                return a.date - b.date;
+            });
+            var ItemContent = freshItem.concat(staleItem);      //连接过期数组和未过期数组,保存排序后的元素
+
+            if (!(fatherEle instanceof Array)) {
+                for (var i = 0; i < ItemContent.length; i++) {
+                    $(fatherEle).append(ItemContent[i].dom);
+                }
+            } else {
+                var lineItems = Math.ceil($eleList.length / fatherEle.length);     //保存一个容器所能存储的链接个数
+                var preIndex = 0;
+                for (var i = 0; i < fatherEle.length; i++) {
+                    if(lineItems > $eleList.length) lineItems = $eleList.length;
+                    for (var j=preIndex; j < lineItems; j++) {
+                        $(fatherEle[i]).append(ItemContent[j].dom);
+                    }
+                    if(lineItems == $eleList.length) return;
+                    preIndex = lineItems;
+                    lineItems += Math.ceil($eleList.length / fatherEle.length);
+                }
+            }
+        }
+
+        var arr = ['2017/5/14 19:15:00', '2017/6/11 19:30:00', '2017/6/23 19:30:00'];
+        var eleContent = ".city li";
+        var father = ".city";
+        sortShow(arr, eleContent, father);
+        */
+    </script>
+
+</body>
+
+</html>

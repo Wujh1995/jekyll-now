@@ -3,9 +3,14 @@ layout: post
 title: 以前在csdn写的博客们
 ---
 
-[博客列表](https://github.com/Wujh1995/wujh1995.github.io/tree/master/csdn_blogs/)
+这些是以前在CSDN写的博客，之前写了一篇关于科学上网的DIY，被秒封了。
+被封了之后我立刻上谷歌把快照保存下来，就是下面的链接。链接不会失效，因为我已经把源文件保存到github上了。
+虽然后来CSDN把我警告一番之后解封了我的博客，大家可以在顶部“CSDN”链接到我原来的博客。
+但经此一事，我已经对CSDN丧失了信心。
+同时也敲响了警钟，博客平台说封就封，博客忽然就全没了，以后遇到同样的问题还得再摸着石头过河，这非常危险。
+所以像Github这种，可以本地远端分别保存博文的平台就很适合我。而且Github怎么说也更开放一些吧。哪怕真的把我封了，本地的文章也不会丢失。
 
-逐个列出来：
+目录：
 
  - [COE文件格式](http://htmlpreview.github.io/?https://github.com/Wujh1995/wujh1995.github.io/master/csdn_blogs/COE文件格式 - Joyce - 博客频道 - CSDN.NET.html)
  - [ISE 利用外部数据文件做测试的方法](http://htmlpreview.github.io/?https://github.com/Wujh1995/wujh1995.github.io/master/csdn_blogs/ISE 利用外部数据文件做测试的方法 - Joyce - 博客频道 - CSDN.NET.html)
